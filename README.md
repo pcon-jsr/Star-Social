@@ -24,3 +24,20 @@ Important Features:-
 
 
 
+If u want to add some extra features then make a pull request.
+
+
+
+Mentors:-
+
+
+
+Himesh Patel -> himeshpatel619@gmail.com
+
+
+
+Anmol Gangwal -> anmol8797@gmail.com
+
+
+
+
