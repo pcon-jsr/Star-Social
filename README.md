@@ -12,15 +12,15 @@ Important Features:-
 
 
 
-2.They can create posts in other groups
+2.They can create posts in other groups.
 
 
 
-3.They can join or leave any group
+3.They can join or leave any group.
 
 
 
-4.They can post sometihng or delete it within a group.
+4.They can post something or delete it within a group.
 
 
 
